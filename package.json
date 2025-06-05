@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/gabriel-pivoto/api-solid-nodejs#readme",
   "devDependencies": {
+    "@types/bcryptjs": "2.4.6",
     "@types/node": "22.15.29",
     "prisma": "6.8.2",
     "tsup": "8.5.0",
